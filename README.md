@@ -2,9 +2,6 @@
 me cago
 <html>
 <head>
-<title>
-nombres,es,com
-</title>
 </head>
 <body>
 <h1>Nombres para chico</h1>
