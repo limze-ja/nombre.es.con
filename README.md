@@ -1,5 +1,4 @@
 # nombre.es.con
-me cago
 <html>
 <head>
 </head>
